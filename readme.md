@@ -1,9 +1,24 @@
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
 <p align="center">
-  <em>Support Engineer at <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a> · 
-  Co-Founder of <a href="https://solarflaremedia.com">Solar Flare Media</a> · 
-  Podcaster at <a href="https://www.tilln.com">Things I Learned Last Night</a></em>
+  <a href="https://matchboxdesigngroup.com">
+    <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="40"/>
+  </a><br>
+  <em>Support Engineer at <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a></em>
+</p>
+
+<p align="center">
+  <a href="https://solarflaremedia.com">
+    <img src="assets/imgs/solarflare_Icon_Orange.svg" alt="Solar Flare Media" height="40"/>
+  </a><br>
+  <em>Co-Founder of <a href="https://solarflaremedia.com">Solar Flare Media</a></em>
+</p>
+
+<p align="center">
+  <a href="https://www.tilln.com">
+    <img src="assets/imgs/tilln_color.png" alt="Things I Learned Last Night Podcast" height="40"/>
+  </a><br>
+  <em>Podcaster at <a href="https://www.tilln.com">Things I Learned Last Night</a></em>
 </p>
 
 <p align="center">
