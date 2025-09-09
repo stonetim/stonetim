@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
-<h2 align="center">Hi, I'm Tim 👋</h2>
-
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 6px #00000033;" width="250">
+      <td align="center" width="250">
         <a href="https://matchboxdesigngroup.com">
           <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="60"/>
         </a>
@@ -14,7 +12,7 @@
           <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a>
         </p>
       </td>
-      <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 6px #00000033;" width="250">
+      <td align="center" width="250">
         <a href="https://solarflaremedia.com">
           <img src="assets/imgs/solarflare_Icon_Orange.svg" alt="Solar Flare Media" height="60"/>
         </a>
@@ -23,7 +21,7 @@
           <a href="https://solarflaremedia.com">Solar Flare Media</a>
         </p>
       </td>
-      <td align="center" style="border: 1px solid #444; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 6px #00000033;" width="250">
+      <td align="center" width="250">
         <a href="https://www.tilln.com">
           <img src="assets/imgs/tilln_color.png" alt="Things I Learned Last Night" height="60"/>
         </a>
