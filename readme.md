@@ -1,29 +1,34 @@
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+  <span>
     <a href="https://matchboxdesigngroup.com">
       <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="60"/>
-    </a>
-    <h3>Support Engineer</h3>
-    <p><a href="https://matchboxdesigngroup.com">Matchbox Design Group</a></p>
-  </div>
+    </a><br>
+    <strong>Support Engineer</strong><br>
+    <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a>
+  </span>
 
-  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
     <a href="https://solarflaremedia.com">
       <img src="assets/imgs/solarflare_Icon_Orange.svg" alt="Solar Flare Media" height="60"/>
-    </a>
-    <h3>Co-Founder</h3>
-    <p><a href="https://solarflaremedia.com">Solar Flare Media</a></p>
-  </div>
+    </a><br>
+    <strong>Co-Founder</strong><br>
+    <a href="https://solarflaremedia.com">Solar Flare Media</a>
+  </span>
 
-  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
     <a href="https://www.tilln.com">
       <img src="assets/imgs/tilln_color.png" alt="Things I Learned Last Night" height="60"/>
-    </a>
-    <h3>Podcaster</h3>
-    <p><a href="https://www.tilln.com">Things I Learned Last Night</a></p>
-  </div>
+    </a><br>
+    <strong>Podcaster</strong><br>
+    <a href="https://www.tilln.com">Things I Learned Last Night</a>
+  </span>
+
 </div>
 
 
