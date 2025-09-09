@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td align="center" width="250">
         <a href="https://matchboxdesigngroup.com">
