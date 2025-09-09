@@ -1,37 +1,29 @@
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="250">
-        <a href="https://matchboxdesigngroup.com">
-          <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="60"/>
-        </a>
-        <h3>Support Engineer</h3>
-        <p>
-          <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a>
-        </p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://solarflaremedia.com">
-          <img src="assets/imgs/solarflare_Icon_Orange.svg" alt="Solar Flare Media" height="60"/>
-        </a>
-        <h3>Co-Founder</h3>
-        <p>
-          <a href="https://solarflaremedia.com">Solar Flare Media</a>
-        </p>
-      </td>
-      <td align="center" width="250">
-        <a href="https://www.tilln.com">
-          <img src="assets/imgs/tilln_color.png" alt="Things I Learned Last Night" height="60"/>
-        </a>
-        <h3>Podcaster</h3>
-        <p>
-          <a href="https://www.tilln.com">Things I Learned Last Night</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+    <a href="https://matchboxdesigngroup.com">
+      <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="60"/>
+    </a>
+    <h3>Support Engineer</h3>
+    <p><a href="https://matchboxdesigngroup.com">Matchbox Design Group</a></p>
+  </div>
+
+  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+    <a href="https://solarflaremedia.com">
+      <img src="assets/imgs/solarflare_Icon_Orange.svg" alt="Solar Flare Media" height="60"/>
+    </a>
+    <h3>Co-Founder</h3>
+    <p><a href="https://solarflaremedia.com">Solar Flare Media</a></p>
+  </div>
+
+  <div style="display: inline-block; text-align: center; width: 250px; margin: 10px;">
+    <a href="https://www.tilln.com">
+      <img src="assets/imgs/tilln_color.png" alt="Things I Learned Last Night" height="60"/>
+    </a>
+    <h3>Podcaster</h3>
+    <p><a href="https://www.tilln.com">Things I Learned Last Night</a></p>
+  </div>
 </div>
 
 
