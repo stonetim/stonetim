@@ -87,19 +87,17 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=stonetim&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonetim&layout=compact&theme=github_dark_dimmed" alt="Top Langs"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=github-dark-dimmed" alt="GitHub Streak"/>
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME
+&theme=github-compact
+&bg_color=22272e&color=adbac7&line=539bf5&point=539bf5&area=true&area_color=2d333b" 
+  alt="Activity Graph"
+/>
 
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=stonetim&theme=github-dark-dimmed" alt="GitHub Streak"/>
+<h2 align="center">📊 Highlights</h2>
+<p align="center">
+  <img src="assets/imgs/metrics.svg" alt="GitHub Metrics"/>
+</p>
 
 </div>
