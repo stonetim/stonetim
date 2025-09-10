@@ -47,4 +47,3 @@ jobs:
           plugins_errors_fatal: false     
           debug: false                
           committer_branch: main
-          
