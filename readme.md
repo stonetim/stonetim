@@ -87,13 +87,8 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=stonetime&theme=github-dark-dimmed" alt="GitHub Streak"/>
-  <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=stonetim
-&theme=github-compact
-&bg_color=22272e&color=adbac7&line=539bf5&point=539bf5&area=true&area_color=2d333b" 
-  alt="Activity Graph"
-/>
+  <img src="https://streak-stats.demolab.com?user=stonetim&theme=github-dark-dimmed" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stonetim&theme=github-compact&bg_color=22272e&color=adbac7&line=539bf5&point=539bf5&area=true&area_color=2d333b" alt="Activity Graph" />
 
 <h2 align="center">📊 Highlights</h2>
 <p align="center">
