@@ -2,10 +2,10 @@
 
 <h2 align="center">
   Hi, I'm Tim 👋
-  <sup>
-    <img src="https://komarev.com/ghpvc/?username=stonetim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </sup>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=stonetim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" height="22"/>
 </h2>
+
 
 <div align="center">
   <table border="0">
