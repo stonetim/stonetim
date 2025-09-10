@@ -1,3 +1,5 @@
+<!-- Intro Section -->
+
 <h1 align="center">Hi, I'm Tim 👋</h1>
 
 <div align="center">
@@ -34,7 +36,6 @@
   </table>
 </div>
 
-
 <p align="center">
   <em>Currently supporting scalable WordPress + Laravel solutions at 
   <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a></em>
@@ -49,9 +50,12 @@
   <li>🎙️ Co-founder of <a href="https://solarflaremedia.com">Solar Flare Media</a> — podcasts & videos with 80M+ views</li>
 </ul>
 
+<!-- Tech Stack Section -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
+
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -74,4 +78,28 @@
   <img src="https://img.shields.io/badge/wpengine-0ECAD4?style=for-the-badge&logo=wpengine&logoColor=white" alt="WPEngine" />
   <img src="https://img.shields.io/badge/digitalocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Ocean" />
   <img src="https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" alt="Vultr" />
+
 </p>
+
+<!-- Stats Section -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=stonetim&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonetim&layout=compact&theme=github_dark_dimmed" alt="Top Langs"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=stonetim&theme=github-dark-dimmed" alt="GitHub Streak"/>
+
+</div>
