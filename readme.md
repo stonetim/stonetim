@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=stonetim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" height="22"/>
 </h2>
 
-<hr />
-
 <p align="center">I’m a Frontend Engineer with 10+ years of experience building and maintaining modern web applications, specializing in <strong>WordPress</strong>. In my current role at Matchbox Design Group, I focus on product maintenance, accessibility compliance (WCAG/ADA), and performance optimization. I’m actively expanding my expertise in backend systems, server-side development, and API integration to round out my skill set as a Full-Stack Engineer. Beyond development, I co-founded <strong>Solar Flare Media</strong>, a podcast and video production company that has generated over 80 million views. I currently reside in Kansas City, MO with my wife Brianna, our son Archer, our dogs Quincy and Oakley, and our bearded dragon Lexi.</p>
 
 <hr />
