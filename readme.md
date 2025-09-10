@@ -113,3 +113,11 @@
 </p>
 
 </div>
+
+<hr />
+
+<!-- Closing Section -->
+
+<h3 align="center">
+  <i>"If you want to go fast, go alone. If you want to go far, go together." - African Proverb</i>
+</h3>
