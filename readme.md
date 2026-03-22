@@ -57,7 +57,7 @@
   <li>🚀 10+ years in web development (100+ sites shipped & maintained)</li>
   <li>🛠️ Passionate about accessibility, performance, and clean code</li>
   <li>🌱 Currently sharpening backend systems knowledge to round out my full-stack skills</li>
-  <li>🎙️ Co-founder of <a href="https://solarflaremedia.com">Solar Flare Media</a> — podcasts & videos with 80M+ views</li>
+  <li>🎙️ Co-founder of <a href="https://solarflaremedia.com">Solar Flare Media</a> — podcasts & videos with 200M+ views</li>
 </ul>
 
 <!-- Tech Stack Section -->
