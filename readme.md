@@ -19,7 +19,7 @@
         <a href="https://matchboxdesigngroup.com">
           <img src="assets/imgs/matchbox-logo-mark-light.svg" alt="Matchbox Design Group" height="60"/>
         </a>
-        <h3>Support Engineer</h3>
+        <h3>Software Engineer</h3>
         <p>
           <a href="https://matchboxdesigngroup.com">Matchbox Design Group</a>
         </p>
