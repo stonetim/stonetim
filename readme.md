@@ -30,7 +30,7 @@
         </a>
         <h3>Co-Founder</h3>
         <p>
-          <a href="https://solarflaremedia.com">Solar Flare Media</a>
+          <a href="https://solarflare.media">Solar Flare Media</a>
         </p>
       </td>
       <td align="center" width="250">
